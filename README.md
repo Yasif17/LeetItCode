@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashh26/LeetItCode/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Ashh26/LeetItCode/tree/master/0622-design-circular-queue) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ashh26/LeetItCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ashh26/LeetAndGeek/tree/master/0780-max-chunks-to-make-sorted) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Ashh26/LeetAndGeek/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Ashh26/LeetAndGeek/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashh26/LeetAndGeek/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Ashh26/LeetItCode/tree/master/0622-design-circular-queue) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ashh26/LeetAndGeek/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/Ashh26/LeetItCode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashh26/LeetItCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Ashh26/LeetAndGeek/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashh26/LeetAndGeek/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Ashh26/LeetItCode/tree/master/0622-design-circular-queue) |
 ## Number Theory
 |  |
 | ------- |
