@@ -1,12 +1,12 @@
 class MyCircularDeque {
-    static final int max = 2000;
+    // static final int max = 2000;
     int capacity;
     int arr[];
     int front,rear;
 
     public MyCircularDeque(int k) {
          capacity = k;
-        arr = new int[max];
+        arr = new int[capacity];
         front = rear =-1;
     }
 
