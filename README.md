@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/Ashh26/LeetItCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ashh26/LeetItCode/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/Ashh26/LeetItCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashh26/LeetItCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ashh26/LeetAndGeek/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Ashh26/LeetAndGeek/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Ashh26/LeetItCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ashh26/LeetItCode/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/Ashh26/LeetItCode/tree/master/0707-design-linked-list) |
 ## Number Theory
 |  |
 | ------- |
