@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ashh26/LeetItCode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Ashh26/LeetItCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Ashh26/LeetItCode/tree/master/0641-design-circular-deque) |
+| [0704-binary-search](https://github.com/Ashh26/LeetItCode/tree/master/0704-binary-search) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ashh26/LeetItCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Ashh26/LeetAndGeek/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ashh26/LeetAndGeek/tree/master/0780-max-chunks-to-make-sorted) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ashh26/LeetItCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Ashh26/LeetAndGeek/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashh26/LeetAndGeek/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Ashh26/LeetItCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Ashh26/LeetAndGeek/tree/master/0792-binary-search) |
 ## Union Find
 |  |
