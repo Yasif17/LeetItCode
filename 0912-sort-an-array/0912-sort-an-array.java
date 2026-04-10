@@ -1,4 +1,51 @@
 class Solution {
+    public int[] sortArray(int[] nums) {
+        
+        int n = nums.length;
+
+        for(int i = n/2-1;i>=0;i--){
+            heapify(nums,n,i);
+        }
+
+        for(int i = n-1;i>=0;i--){
+            int temp = nums[0];
+            nums[0] = nums[i];
+            nums[i] = temp;
+            heapify(nums,i,0);
+        }
+        return nums;
+    }
+
+    void heapify(int[] a, int n , int i){
+        int largest = i;
+        int li = 2*i+1;
+        int ri = 2*i+2;
+
+
+        if(li<n && a[li]>a[largest]){
+            largest = li;
+        }
+        if(ri<n && a[ri]>a[largest]){
+            largest = ri;
+        }
+        if(largest!=i){
+            int temp = a[i];
+            a[i] = a[largest];
+            a[largest] = temp;
+            heapify(a,n,largest);
+        }
+
+
+    }
+
+}
+
+
+
+
+
+
+/*class Solution {
 
     int[] a;
     int[] tempa;
@@ -57,4 +104,4 @@ class Solution {
 
     }
 
-}
+} */
