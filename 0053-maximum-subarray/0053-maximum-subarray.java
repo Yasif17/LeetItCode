@@ -1,22 +1,21 @@
 class Solution {
     public int maxSubArray(int[] nums) {
 
-         // Function to find the maximum subarray sum
-        int result = nums[0];
-        int maxEnding = nums[0];
+        int n=nums.length;
+        int sum=0;
+        int max = nums[0];
 
-        for (int i = 1; i < nums.length; i++) {
-            
-            // Find the maximum sum ending at index i by either extending 
-            // the maximum sum subarray ending at index i - 1 or by
-            // starting a new subarray from index i
-            maxEnding = Math.max(maxEnding + nums[i], nums[i]);
-          
-            // Update result if maximum subarray sum ending at index i > result
-            result = Math.max(result, maxEnding);
+        for(int i=0;i<n;i++){
+            sum+=nums[i];
+
+            max = Math.max(sum,max);
+
+            if(sum<0){
+                sum=0;
+            }
+
         }
-        return result;
-    
+        return max;
     }
 }
 
