@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0933-increasing-order-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Ashh26/LeetItCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ashh26/LeetAndGeek/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1035-cousins-in-binary-tree) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0933-increasing-order-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Ashh26/LeetItCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ashh26/LeetAndGeek/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1035-cousins-in-binary-tree) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Ashh26/LeetAndGeek/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ashh26/LeetAndGeek/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Ashh26/LeetItCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Ashh26/LeetAndGeek/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
